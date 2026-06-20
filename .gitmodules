@@ -1,0 +1,3 @@
+[submodule "langchain-academy"]
+	path = langchain-academy
+	url = git@github.com:akekchid/langchain-academy.git
